@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
 
 <div align = "center">
 
@@ -47,9 +45,3 @@ Hello, I'm SangHyun (Oh).<br/>
 </div>
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
-
-
-

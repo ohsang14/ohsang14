@@ -42,8 +42,8 @@
 
 <div align="center">
 
-[![ohsang14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=Algorithm&cache_bust=123)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=Algorithm&cache_bust=123)](https://github.com/anuraghazra/github-readme-stats)
+[![ohsang14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

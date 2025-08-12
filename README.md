@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<본인 깃허브 프로필 사진 URL>" alt="Profile" width="150" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/132821751?s=400&u=1cf6a094a041c8cd18179e2b22688d30eadda2f9&v=4" alt="Profile" width="150" style="border-radius: 50%;" />
 
 <h2>오상현 (Oh Sanghyun)</h2>
 

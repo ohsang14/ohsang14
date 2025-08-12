@@ -12,8 +12,8 @@
 
 <div align="center">
   <h3>✨ My Key Projects ✨</h3>
-  <a href="https://github.com/ohsang14/hut_eo_frontend"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=hut_eo_frontend&theme=light" alt="but_eo_frontend"/></a>
-  <a href="https://github.com/ohsang14/hut_eo_back"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=hut_eo_back&theme=light" alt="but_eo_back"/></a>
+  <a href="https://github.com/ohsang14/but_eo_frontend"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_frontend&theme=light" alt="but_eo_frontend"/></a>
+  <a href="https://github.com/ohsang14/but_eo_back"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_back&theme=light" alt="but_eo_back"/></a>
 </div>
 
 

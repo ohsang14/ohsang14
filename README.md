@@ -32,7 +32,7 @@
 <hr style="border: 1px solid #dcdcdc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
-  <h3>🌟 My Key Projects 🌟</h3>
+  <h3>✨ My Key Projects ✨</h3>
   <a href="https://github.com/ohsang14/hut_eo_frontend"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=hut_eo_frontend&theme=light" alt="hut_eo_frontend"/></a>
   <a href="https://github.com/ohsang14/hut_eo_back"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=hut_eo_back&theme=light" alt="hut_eo_back"/></a>
 </div>
@@ -42,8 +42,8 @@
 
 <div align="center">
 
-[![ohsang14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=여기에-주피터-노트북-저장소-이름-입력)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=여기에-주피터-노트북-저장소-이름-입력)](https://github.com/anuraghazra/github-readme-stats)
+[![ohsang14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=Algorithm&cache_bust=123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=Algorithm&cache_bust=123)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

@@ -32,8 +32,8 @@
 <div align="center">
   <h3>✨ My Key Projects ✨</h3>
   <p><strong>[스포츠 매칭 시스템 '부터']</strong></p>
-  <a href="https://github.com/ohsang14/but_eo_frontend"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_frontend&theme=light" alt="but_eo_frontend"/></a>
-  <a href="https://github.com/ohsang14/but_eo_back"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_back&theme=light" alt="but_eo_back"/></a>
+  <a href="https://github.com/ohsang14/but_eo_frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohsang14&repo=but_eo_frontend&theme=light&show_owner=true" alt="but_eo_frontend"/></a>
+  <a href="https://github.com/ohsang14/but_eo_back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohsang14&repo=but_eo_back&theme=light&show_owner=true" alt="but_eo_back"/></a>
 </div>
 
 
@@ -52,9 +52,12 @@
 
 <h3>📫 Connect with me</h3>
   <p>
-    <a href="mailto:ohsanghyun14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    </p>
+    <a href="mailto:ohsanghyun14@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp; ohsanghyun14@gmail.com
+  </p>
 
 </div>
-
+<br>
 <br>

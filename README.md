@@ -4,14 +4,34 @@
 
 <h2>오상현 (Oh Sanghyun)</h2>
 
-<p>💻 열심히 개발 공부하는 신입 개발자</p>
+<p>[Flutter와 Spring Boot를 활용하여 아이디어를 실현하는 신입 개발자입니다.]</p>
+<p>[사용자 경험을 중요하게 생각하며, 함께 성장하는 것을 즐깁니다.]</p>
 
 </div>
 
 <hr style="border: 1px solid #dcdcdc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
+  <h3>🛠️ Tech Stack 🛠️</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </p>
+</div>
+
+<hr style="border: 1px solid #dcdcdc; margin-top: 20px; margin-bottom: 20px;">
+
+<div align="center">
   <h3>✨ My Key Projects ✨</h3>
+  <p><strong>[스포츠 매칭 시스템 '부터']</strong></p>
   <a href="https://github.com/ohsang14/but_eo_frontend"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_frontend&theme=light" alt="but_eo_frontend"/></a>
   <a href="https://github.com/ohsang14/but_eo_back"><img src="https://gh-pins.zcern.com/pin/?username=ohsang14&repo=but_eo_back&theme=light" alt="but_eo_back"/></a>
 </div>
@@ -30,7 +50,10 @@
 
 <div align="center">
 
-📫 <a href="mailto:ohsanghyun14@gmail.com">ohsanghyun14@gmail.com</a> • <a href="https://github.com/ohsang14">GitHub</a>
+<h3>📫 Connect with me</h3>
+  <p>
+    <a href="mailto:ohsanghyun14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </p>
 
 </div>
 

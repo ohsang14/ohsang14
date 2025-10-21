@@ -32,17 +32,20 @@
 <div align="center">
   <h3>✨ My Key Projects ✨</h3>
   <p><strong>[스포츠 매칭 시스템 '부터']</strong></p>
-  <a href="https://github.com/ohsang14/but_eo_frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohsang14&repo=but_eo_frontend&theme=light&show_owner=true" alt="but_eo_frontend"/></a>
-  <a href="https://github.com/ohsang14/but_eo_back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ohsang14&repo=but_eo_back&theme=light&show_owner=true" alt="but_eo_back"/></a>
+  <a href="https://github.com/ohsang14/but_eo_frontend">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ohsang14&repo=but_eo_frontend&theme=light&show_owner=true" alt="but_eo_frontend"/>
+  </a>
+  <a href="https://github.com/ohsang14/but_eo_back">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ohsang14&repo=but_eo_back&theme=light&show_owner=true" alt="but_eo_back"/>
+  </a>
 </div>
-
 
 <hr style="border: 1px solid #dcdcdc; margin-top: 20px; margin-bottom: 20px;">
 
 <div align="center">
 
-[![ohsang14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim&cache_bust=999)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim&cache_bust=999)](https://github.com/anuraghazra/github-readme-stats)
+[![ohsang14's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ohsang14&show_icons=true&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim&cache_bust=999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ohsang14&layout=compact&theme=light&exclude_repo=Algorithm,java_Basic_Kim,Java_Start_Kim&cache_bust=999)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
